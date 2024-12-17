@@ -6,7 +6,9 @@ I added parrotwannapimp.sh. Easy setup for those that wanna use Parrot OS but st
 Main changes: Python2 and CME are no longer supported and adding them the same way as Kali doesn't work. Removed altogether, I just use netexec and py3 anyone.
 Minor changse: Small tweak to the grub fix sed command to make it actually work. Removing whitespace for personal preference.
 
-# pimpmykali.sh
+
+
+# Original: pimpmykali.sh
 
 ![pmk2 0 0](https://github.com/user-attachments/assets/08cdd9c8-83c7-41e0-a65c-8bf7690a7f36)
 
